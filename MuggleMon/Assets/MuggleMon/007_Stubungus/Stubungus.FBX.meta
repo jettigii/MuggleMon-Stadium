@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 748b4974efee5064c9ea1d6c8d83ef35
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Foot
+    100012: Bip001 L Thigh
+    100014: Bip001 L Toe0
+    100016: Bip001 L Toe0Nub
+    100018: Bip001 Neck
+    100020: Bip001 Pelvis
+    100022: Bip001 Ponytail1
+    100024: Bip001 Ponytail1Nub
+    100026: Bip001 Ponytail2
+    100028: Bip001 Ponytail2Nub
+    100030: Bip001 R Calf
+    100032: Bip001 R Foot
+    100034: Bip001 R Thigh
+    100036: Bip001 R Toe0
+    100038: Bip001 R Toe0Nub
+    100040: Bip001 Spine
+    100042: Bip001 Tail
+    100044: Bip001 TailNub
+    100046: BLush
+    100048: BoneMouthBtm
+    100050: BoneMouthTop
+    100052: booo
+    100054: Ears
+    100056: Eyes
+    100058: feet
+    100060: Mouth
+    100062: //RootNode
+    100064: tail
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Foot
+    400012: Bip001 L Thigh
+    400014: Bip001 L Toe0
+    400016: Bip001 L Toe0Nub
+    400018: Bip001 Neck
+    400020: Bip001 Pelvis
+    400022: Bip001 Ponytail1
+    400024: Bip001 Ponytail1Nub
+    400026: Bip001 Ponytail2
+    400028: Bip001 Ponytail2Nub
+    400030: Bip001 R Calf
+    400032: Bip001 R Foot
+    400034: Bip001 R Thigh
+    400036: Bip001 R Toe0
+    400038: Bip001 R Toe0Nub
+    400040: Bip001 Spine
+    400042: Bip001 Tail
+    400044: Bip001 TailNub
+    400046: BLush
+    400048: BoneMouthBtm
+    400050: BoneMouthTop
+    400052: booo
+    400054: Ears
+    400056: Eyes
+    400058: feet
+    400060: Mouth
+    400062: //RootNode
+    400064: tail
+    2100000: StubBlue
+    2100002: StubWhite
+    2100004: StubDarkBlue
+    2100006: StubEyes
+    2100008: StubBlush
+    4300000: booo
+    4300002: tail
+    4300004: feet
+    4300006: Ears
+    4300008: Eyes
+    4300010: BLush
+    4300012: Mouth
+    9500000: //RootNode
+    13700000: BLush
+    13700002: booo
+    13700004: Ears
+    13700006: Eyes
+    13700008: feet
+    13700010: Mouth
+    13700012: tail
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StubBlue
+    second: {fileID: 2100000, guid: 0bca82466c353b3458a3133370a3af63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StubBlush
+    second: {fileID: 2100000, guid: 7c7edad0803137f41a3a2d7439d19375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StubDarkBlue
+    second: {fileID: 2100000, guid: 1fb8be676a652d144be648eb497da2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StubEyes
+    second: {fileID: 2100000, guid: fd7a2698500191b46ab3d944c734f349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StubWhite
+    second: {fileID: 2100000, guid: 3002e6b6395582f489cd61a72b722aca, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MegaEyeUV
+    second: {fileID: 2800000, guid: f57c3efdfd1aec843aa92e950a7fec6d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

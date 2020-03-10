@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 0722cc06979adf946960876e08efa5e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arms
+    100002: body
+    100004: Bone004
+    100006: Bone004(mirrored)
+    100008: Bone005
+    100010: Bone005(mirrored)
+    100012: Bone006
+    100014: Bone006(mirrored)
+    100016: Bone008
+    100018: Bone009
+    100020: BoneLegs00
+    100022: BoneLegs01
+    100024: BoneLegs02
+    100026: BoneLegs03
+    100028: BoneLegs04
+    100030: BoneLegs05
+    100032: BoneLegs06
+    100034: BoneLegs07
+    100036: BoneLegs08
+    100038: BoneLegs09
+    100040: BoneLegs10
+    100042: BoneLegs11
+    100044: BoneMyr
+    100046: BoneWingL
+    100048: BoneWingR
+    100050: headArmor
+    100052: HipArmor
+    100054: //RootNode
+    100056: paws
+    100058: wingL
+    100060: wingR
+    400000: arms
+    400002: body
+    400004: Bone004
+    400006: Bone004(mirrored)
+    400008: Bone005
+    400010: Bone005(mirrored)
+    400012: Bone006
+    400014: Bone006(mirrored)
+    400016: Bone008
+    400018: Bone009
+    400020: BoneLegs00
+    400022: BoneLegs01
+    400024: BoneLegs02
+    400026: BoneLegs03
+    400028: BoneLegs04
+    400030: BoneLegs05
+    400032: BoneLegs06
+    400034: BoneLegs07
+    400036: BoneLegs08
+    400038: BoneLegs09
+    400040: BoneLegs10
+    400042: BoneLegs11
+    400044: BoneMyr
+    400046: BoneWingL
+    400048: BoneWingR
+    400050: headArmor
+    400052: HipArmor
+    400054: //RootNode
+    400056: paws
+    400058: wingL
+    400060: wingR
+    2100000: MyrtBlack
+    2100002: MyrtWhite
+    2100004: MyrtGrey
+    2100006: Gold
+    4300000: body
+    4300002: wingL
+    4300004: headArmor
+    4300006: wingR
+    4300008: HipArmor
+    4300010: paws
+    4300012: arms
+    9500000: //RootNode
+    13700000: arms
+    13700002: body
+    13700004: headArmor
+    13700006: HipArmor
+    13700008: paws
+    13700010: wingL
+    13700012: wingR
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: bf2a2baab63cc914cac65f3b246ca6c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MyrtBlack
+    second: {fileID: 2100000, guid: 83a860618dbed9a418663d13fd0a9276, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MyrtGrey
+    second: {fileID: 2100000, guid: 82d5672cf5399e24b98ae1d90b06cab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MyrtWhite
+    second: {fileID: 2100000, guid: 688f8f2acae111044951a8b35dd7f95d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

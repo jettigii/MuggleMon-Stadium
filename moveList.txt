@@ -1,0 +1,162 @@
+01 
+1;
+mov.move_name = "Bam";
+mov.type = "Neutral";
+mov.power = 40;
+mov.desc = "The user pumples its target with maximum ferocity!";
+02 
+2;
+mov.move_name = "Bash";
+mov.type = "Neutral";
+mov.power = 60;
+mov.desc = "The user bashes its target with vigour!";
+03 
+3;
+mov.move_name = "Twerk Whip";
+mov.type = "Neutral";
+mov.power = 0;
+mov.desc = "The user twerks to lower its targets defenses while also making it eagerly want some of that raising its targets attack.";
+04
+4;
+mov.move_name = "Sprotage";
+mov.type = "Leaf";
+mov.power = 40;
+mov.desc = "The user sprouts outward in an attempt to harm its target.";
+05
+5;
+mov.move_name = "Leaf Slap";
+mov.type = "Leaf";
+mov.power = 60;
+mov.desc = "The user slaps its foliage across its targets face.";
+06
+6;
+mov.move_name = "Grass stomp";
+mov.type = "Leaf";
+mov.power = 80;
+mov.desc = "The user stomps on its target with its foliage!";
+07
+7;
+mov.move_name = "Water Yeet";
+mov.type = "Water";
+mov.power = 80;
+mov.desc = "The user yeets water at its target in a powerful vortex!";
+08
+8;
+mov.move_name = "Aqua Kobe";
+mov.type = "Water";
+mov.power = 40;
+mov.desc = "The user kobes water in an attempt to harm its target.";
+09
+9;
+mov.move_name = "Hot Tamale";
+mov.type = "Flame";
+mov.power = 40;
+mov.desc = "The user hurls spicy meatballs in an attempt to harm its target.";
+10
+10;
+mov.move_name = "Burnade";
+mov.type = "Flame";
+mov.power = 80;
+mov.desc = "The user burns its target with a flaming vortex of fire!";
+11
+11;
+mov.move_name = "Nibble Jibblets";
+mov.type = "Insect";
+mov.power = 40;
+mov.desc = "The user nibbles the targets jibblets.";
+12
+12;
+mov.move_name = "Harden Up";
+mov.type = "Hard";
+mov.power = 0;
+mov.desc = "The user gets hard! and raises its defenses.";
+13
+13;
+mov.move_name = "Missile Punch";
+mov.type = "Hard";
+mov.power = 80;
+mov.desc = "The user throws a punch at blazing speeds at its target!";
+14
+14;
+mov.move_name = "THICC Rush";
+mov.type = "Kick";
+mov.power = 100;
+mov.desc = "The user hurls itself at its target, using its thiccness as its core strength. Power is determined by how T H I C C the user is.";
+15
+15;
+mov.move_name = "Drop Kick";
+mov.type = "Kick";
+mov.power = 60;
+mov.desc = "The user drops down on its target with a kick.";
+16
+16;
+mov.move_name = "Kick";
+mov.type = "Kick";
+mov.power = 30;
+mov.desc = "The user kicks its target.";
+17
+17;
+mov.move_name = "Whap";
+mov.type = "Kick";
+mov.power = 40;
+mov.desc = "The user whaps its target with power of fight.";
+18
+18;
+mov.move_name = "Chomp";
+mov.type = "WTF";
+mov.power = 40;
+mov.desc = "The user bites on its target. Ow!";
+19
+19;
+mov.move_name = "Shank";
+mov.type = "WTF";
+mov.power = 80;
+mov.desc = "The user shanks its target from behind!";
+20
+20;
+mov.move_name = "Foot Massage";
+mov.type = "Pixie";
+mov.power = 0;
+mov.desc = "The user gives its target a sensual foot massage. Lowering their defenses.";
+21
+21;
+mov.move_name = "Seduce";
+mov.type = "Pixie";
+mov.power = 0;
+mov.desc = "The user macks on its target in an attempt to seduce them. Lowering their attack.";
+22
+22;
+mov.move_name = "Hug";
+mov.type = "Pixie";
+mov.power = 0;
+mov.desc = "The user hugs its target hightening their self esteem. Raises users defenses.";
+23
+23;
+mov.move_name = "AssQuake";
+mov.type = "Pixie";
+mov.power = 90;
+mov.desc = "The user creates an earthquake with the slap of its ass claps!";
+24
+24;
+mov.move_name = "Aerial Taint";
+mov.type = "Flight";
+mov.power = 60;
+mov.desc = "The user flys down and shoves its taint into its target painfully. Also lowers targets defenses.";
+25
+25;
+mov.move_name = "Strangulate";
+mov.type = "Flight";
+mov.power = 40;
+mov.desc = "The user strangles its target.";
+26
+26;
+mov.move_name = "Wind Whip";
+mov.type = "Flight";
+mov.power = 40;
+mov.desc = "The user whips its broken wind into its targets face. This moves always goes first.";
+27
+27;
+mov.move_name = "Constraintache";
+mov.type = "Flight";
+mov.power = 0;
+mov.desc = "The user constrains its target 50 shades of grey style. Lowers targets attack.";

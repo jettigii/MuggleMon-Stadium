@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 0c255bca6c62f544484f25e2cbd3fc81
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Foot
+    100012: Bip001 L Thigh
+    100014: Bip001 L Toe0
+    100016: Bip001 L Toe0Nub
+    100018: Bip001 Neck
+    100020: Bip001 Pelvis
+    100022: Bip001 R Calf
+    100024: Bip001 R Foot
+    100026: Bip001 R Thigh
+    100028: Bip001 R Toe0
+    100030: Bip001 R Toe0Nub
+    100032: Bip001 Spine
+    100034: Bip001 Spine1
+    100036: body
+    100038: BoneMouthBtm
+    100040: BoneMouthTop
+    100042: BoneWingLeft
+    100044: BoneWingRight
+    100046: //RootNode
+    100048: eyes
+    100050: mouth
+    100052: WingLeft
+    100054: WingRight
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Foot
+    400012: Bip001 L Thigh
+    400014: Bip001 L Toe0
+    400016: Bip001 L Toe0Nub
+    400018: Bip001 Neck
+    400020: Bip001 Pelvis
+    400022: Bip001 R Calf
+    400024: Bip001 R Foot
+    400026: Bip001 R Thigh
+    400028: Bip001 R Toe0
+    400030: Bip001 R Toe0Nub
+    400032: Bip001 Spine
+    400034: Bip001 Spine1
+    400036: body
+    400038: BoneMouthBtm
+    400040: BoneMouthTop
+    400042: BoneWingLeft
+    400044: BoneWingRight
+    400046: //RootNode
+    400048: eyes
+    400050: mouth
+    400052: WingLeft
+    400054: WingRight
+    2100000: meat
+    2100002: meatMouth
+    2100004: eyeRight
+    2100006: eyeLeft
+    4300000: body
+    4300002: mouth
+    4300004: eyes
+    4300006: WingLeft
+    4300008: WingRight
+    9500000: //RootNode
+    13700000: body
+    13700002: eyes
+    13700004: mouth
+    13700006: WingLeft
+    13700008: WingRight
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeLeft
+    second: {fileID: 2100000, guid: a9f8a00a4bc4250449d602d6a9f730ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeRight
+    second: {fileID: 2100000, guid: 05f4e3936649fb84e81e71966091cd47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meat
+    second: {fileID: 2100000, guid: df0781918988dbb469fd1e394f303eda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meatMouth
+    second: {fileID: 2100000, guid: 44d835b08eb1ac54a9383d58dc41fe36, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: eyeLeftUV
+    second: {fileID: 2800000, guid: 90dec0cb0433fb04193a4c81547a83e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: eyeRightUV
+    second: {fileID: 2800000, guid: 09cd10f4351cbde4db829447b9200c52, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

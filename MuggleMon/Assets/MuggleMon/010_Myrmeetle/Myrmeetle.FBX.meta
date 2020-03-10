@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 4a0780aee9187ce46b75017b7a07c95b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BoneButt1
+    100002: BoneButt2
+    100004: BoneHead
+    100006: BoneMouth
+    100008: BoneTorso1
+    100010: BoneTorso2
+    100012: Butt1
+    100014: Butt2
+    100016: Head
+    100018: Mouth
+    100020: //RootNode
+    100022: Torso1
+    100024: Torso2
+    400000: BoneButt1
+    400002: BoneButt2
+    400004: BoneHead
+    400006: BoneMouth
+    400008: BoneTorso1
+    400010: BoneTorso2
+    400012: Butt1
+    400014: Butt2
+    400016: Head
+    400018: Mouth
+    400020: //RootNode
+    400022: Torso1
+    400024: Torso2
+    2100000: MyrtBlack
+    2100002: MyrtWhite
+    2100004: MyrtGrey
+    2100006: Gold
+    4300000: Head
+    4300002: Torso1
+    4300004: Torso2
+    4300006: Mouth
+    4300008: Butt2
+    4300010: Butt1
+    9500000: //RootNode
+    13700000: Butt1
+    13700002: Butt2
+    13700004: Head
+    13700006: Mouth
+    13700008: Torso1
+    13700010: Torso2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 628068d109d576446a9398a5e50fdbc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MyrtBlack
+    second: {fileID: 2100000, guid: ab5c72191401877438fe956c4f6d2fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MyrtGrey
+    second: {fileID: 2100000, guid: ea9e70305f6a8a64191f9e6b7659d5f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MyrtWhite
+    second: {fileID: 2100000, guid: a2c3c4aa2d5046e4697b55c5ed15f808, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
